@@ -10,3 +10,13 @@ The proposed research approach uses Linear Regression, Support Vector Regression
 A medical insurance cost dataset is acquired from the KAGGLE repository for this purpose, and machine learning methods are used to show how different regression models can forecast insurance costs and to compare the models’ accuracy. +e results shows that the Stochastic Gradient Boosting (SGB) model outperforms the others with a cross-validation value of 0.0.858 and RMSE value of 0.340 and gives 86% accuracy.
 
 **********************************************************************************************************************************************************************<br />
+*#2.** Titanic - Machine-Learning-From-Disaster <br />
+https://www.kaggle.com/competitions/titanic/overview <br />
+The folder contains a notebook to predict which passengers survived the disaster. <br />
+
+Notebook objective is as : <br />
+ use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. <br />
+ 
+ *********************************************************************************************************************************************************************<br />
+
+
